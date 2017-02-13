@@ -2,6 +2,7 @@
 
 ## *Daria Holubtsova*
 Coordinator in LG Electronics RUS
+
 My contacts:
 
 | VK        |![VK LOGO] (images/logovk.png)           | http://vk.com/dashaholubtsova       |
