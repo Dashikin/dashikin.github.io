@@ -3,7 +3,7 @@
 ## *Daria Holubtsova*
 Coordinator in LG Electronics RUS
 
-My contacts:
+## My contacts:
     * VK - http://vk.com/dashaholubtsova
     * Instagram - http://instagram.com/dashaholubtova
     * e-mail - g_dasha@live.ru
