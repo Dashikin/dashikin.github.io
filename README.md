@@ -1,6 +1,6 @@
 ```javascript
 if (confirm('Is your day awesome?')) {
-  alert('  alert('High five');
+  alert('High five');
 } else {    
   alert('Smile, you'll be fine');
 }
