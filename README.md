@@ -7,4 +7,6 @@ Coordinator in LG Electronics RUS
 
 | e-mail    |![Email LOGO] (logoemail.png)  | <g_dasha@live.ru>                      |
 | LG e-mail |![Mail LOGO] (logomail.png)    | <daria.holubtsova@lge.com>             |
-| VK        |![VK LOGO] (logovk.png)        | <http://vk.com/dashaholubtsova>        |    
+| VK        |![VK LOGO] (logovk.png)        | <http://vk.com/dashaholubtsova>        |  
+
+<3
