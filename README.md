@@ -1,10 +1,3 @@
-```javascript
-if (confirm('Is your day awesome?')) {
-  alert('High five');
-} else {    
-  alert('Smile, you will be fine');
-}
-```
 # WELCOME TO MY WORLD
 
 ## *Daria Holubtsova*
