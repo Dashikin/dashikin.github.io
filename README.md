@@ -30,7 +30,7 @@ Professional knowledge, skills and qualities:
 **Professional interests**:
 Investment projects, Budgeting, Planning, Financial strategy, Business development.
 
-#### My contacts :shipit: 
+#### My contacts :phone:  
 
 | e-mail    |![Email LOGO](logoemail.png)| <g_dasha@live.ru>                      |
 | LG e-mail |![Mail LOGO](logomail.png)  | <daria.holubtsova@lge.com>             |
