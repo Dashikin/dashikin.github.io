@@ -17,7 +17,7 @@ Professional knowledge, skills and qualities:
 - knowledge of the basic principles of budgeting;
 - skills in EXCEL.
 
-Professional interests:
+**Professional interests**:
 Investment projects, Budgeting, Planning, Financial strategy, Business development.
 
 #### My contacts :phone: :
