@@ -1,7 +1,5 @@
-# WELCOME TO MY WORLD
-
-## *Daria Holubtsova*
-Coordinator in LG Electronics RUS
+# *Daria Holubtsova*
+## *Coordinator in LG Electronics RUS*
 
 ### *About Me*
 **Professional knowledge, skills and qualities:**
