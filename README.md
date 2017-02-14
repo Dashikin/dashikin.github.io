@@ -1,4 +1,4 @@
--# dashikin.github.io
+title: [Welcome to my page]
 
 # *Daria Holubtsova*
 
