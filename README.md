@@ -3,7 +3,7 @@
 ## *Daria Holubtsova*
 Coordinator in LG Electronics RUS
 
-### **About Me**
+### *About Me*
 Professional knowledge, skills and qualities:
 - financial modeling (analytical method, mathematical methods); 
 
@@ -30,7 +30,7 @@ Professional knowledge, skills and qualities:
 **Professional interests**:
 Investment projects, Budgeting, Planning, Financial strategy, Business development.
 
-#### My contacts :phone:  
+#### *My contacts*:  
 
 | e-mail    |![Email LOGO](logoemail.png)| <g_dasha@live.ru>                      |
 | LG e-mail |![Mail LOGO](logomail.png)  | <daria.holubtsova@lge.com>             |
