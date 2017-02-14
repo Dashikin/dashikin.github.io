@@ -5,6 +5,7 @@ Coordinator in LG Electronics RUS
 
 ### *About Me*
 Professional knowledge, skills and qualities:
+
 - financial modeling (analytical method, mathematical methods); 
 
 - estimation of value of companies (DCF, MCVA, EVA, BAPM); 
