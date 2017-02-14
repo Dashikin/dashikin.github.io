@@ -4,7 +4,7 @@
 Coordinator in LG Electronics RUS
 
 ### *About Me*
-Professional knowledge, skills and qualities:
+**Professional knowledge, skills and qualities:**
 
 - financial modeling (analytical method, mathematical methods); 
 
